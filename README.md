@@ -1,1 +1,1 @@
-# my-first-repo
+Hi Everyone! My name is Raymond Quarshie. I am a sophomore studying Information Science at the University of Maryland. The main reason I wanted to be a part of this group is that I want to be apart of something new and this is a way for me to do so via the field I have a passion for, I hope to grow my teamwork skills and LLM implementration
